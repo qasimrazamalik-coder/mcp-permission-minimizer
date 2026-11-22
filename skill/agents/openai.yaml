@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Permission Minimizer"
+  short_description: "Recommend least-privilege MCP scopes from declared tool actions and flag wildcard or administra"
+  default_prompt: "Use @mcp-permission-minimizer on my authorized input and return a validated result."
